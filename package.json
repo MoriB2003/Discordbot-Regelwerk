@@ -1,0 +1,14 @@
+{
+  "name": "regelwerk-bot",
+  "version": "1.0.0",
+  "description": "Discord Regelwerk Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy": "node src/deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.6.1"
+  }
+}

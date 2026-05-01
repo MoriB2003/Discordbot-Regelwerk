@@ -1,0 +1,26 @@
+{
+  "token": "MTM4NDIyMTE5MDM0Mzg4ODk3Ng.GLHuNa.jJmVHq6WDnaSewaQBJO4d08pP4Pai4LTQPEwfQ",
+  "clientId": "1384221190343888976",
+  "guildId": "1497328710771150943",
+
+  "serverName": "🌴 Long Beach City Roleplay",
+  "autor": "Autor XxMoriBxX",
+
+  "regelwerkbanner": ".png",
+  "regelwerkerklärungbanner": ".png",
+  "regeländernbanner": ".png",
+
+  "channels": {
+    "regelwerk": "1497330605593989290",
+    "erklaerung": "1499117437512323184",
+    "admin": "1497330608093921360"
+  },
+
+  "pingRole": "1497556154622935090",
+  "adminRole": "1497330387657949184",
+
+  "settings": {
+    "language": "de",
+    "prefix": "/"
+  }
+}
